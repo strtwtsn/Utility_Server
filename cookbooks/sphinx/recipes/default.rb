@@ -1,4 +1,8 @@
 package "libmysqlclient-dev"
+package "libmysql++-dev"
+package "libmysqlclient18"
+
+
 
 remote_file "/usr/local/src/sphinx-2.0.8-release.tar.gz" do
 source "http://sphinxsearch.com/files/sphinx-2.0.8-release.tar.gz"
