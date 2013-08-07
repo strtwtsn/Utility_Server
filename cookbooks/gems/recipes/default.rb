@@ -46,6 +46,8 @@ end
 package "libxml2-dev"
 package "libxslt-dev"
 package "libsasl2-dev"
+package "zip"
+
 
 
 
