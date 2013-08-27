@@ -43,6 +43,7 @@ gem_package "simplecov-rcov" do
 action :install
 end
 
+package "libpq-dev"
 package "libxml2-dev"
 package "libxslt-dev"
 package "libsasl2-dev"
